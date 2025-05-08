@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ChinnipalliShiva/My-Work-Utils#readme",
   "dependencies": {
+    "openai": "^4.97.0",
     "simple-git": "^3.27.0"
   }
 }
